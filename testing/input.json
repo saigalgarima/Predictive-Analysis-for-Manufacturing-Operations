@@ -1,0 +1,17 @@
+{
+    "Date": "31-12-2021",
+    "Machine_ID": "Makino-L1-Unit1-2013",
+    "Assembly_Line_No": "Shopfloor-L1",
+    "Hydraulic_Pressure(bar)": 71.04,
+    "Coolant_Pressure(bar)": 6.933724915,
+    "Air_System_Pressure(bar)": 6.284964506,
+    "Coolant_Temperature": 25.6,
+    "Hydraulic_Oil_Temperature(?C)": 46,
+    "Spindle_Bearing_Temperature(?C)": 33.4,
+    "Spindle_Vibration(?m)": 1.291,
+    "Tool_Vibration(?m)": 26.492,
+    "Spindle_Speed(RPM)": 25892,
+    "Voltage(volts)": 335,
+    "Torque(Nm)": 24.05532601,
+    "Cutting(kN)": 3.58
+}
